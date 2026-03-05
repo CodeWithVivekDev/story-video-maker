@@ -1,0 +1,12 @@
+{
+  "name": "story-video-maker",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^17.0.0",
+    "next": "^12.0.0",
+    "axios": "^0.21.1",
+    "@ffmpeg/ffmpeg": "^0.10.0",
+    "video.js": "^7.15.4"
+  }
+}

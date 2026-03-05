@@ -1,0 +1,1 @@
+{\n  "name": "story-video-maker",\n  "version": "1.0.0",\n  "main": "index.js",\n  "dependencies": {\n    "express": "^4.18.1",\n    "fluent-ffmpeg": "^2.1.2",\n    "text-to-speech-js": "^2.0.0",\n    "jimp": "^0.16.1"\n  }\n}
